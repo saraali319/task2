@@ -1,0 +1,50 @@
+*{
+    margin:0;
+    padding:0;
+   
+}
+
+.ss{
+    background-image: url(spong.jpg);height:500px;
+    background-size: cover;
+background-repeat:repeat;
+background-size:cover;
+background-attachment:fixed;
+}
+
+.menu{
+    width:100%;
+    background-color: rgba(216, 112, 161,0.3);
+    position: absolute;
+
+    margin: 0;
+    padding:0;
+
+
+}
+ul{list-style: none;
+padding:0;
+margin:0;
+text-align: center;}
+
+ul li{display:inline-block;
+    padding:10px; }
+    ul li a {color:white
+    ;text-decoration:none;
+font-size:20px;
+font-weight:thin;
+word-spacing: 50px}
+p{padding: 50px;
+color:black;
+font-size:25px;
+font-family:Arial, Helvetica;
+line-height:25px;
+text-indent:0;
+width:800px}
+.im{float: right;
+width:250px;
+height:400px}
+
+
+
+  
